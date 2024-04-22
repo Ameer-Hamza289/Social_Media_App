@@ -10,4 +10,4 @@ mongoose.connect(process.env.MONGOOSE_URI)
 })
 }
 
-module.exports={connectDB};
+module.exports={connectDB}};
